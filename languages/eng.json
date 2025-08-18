@@ -1,0 +1,19 @@
+{
+  "height":"Height",
+  "cm":"cm",
+  "weight":"Weight",
+  "kg":"kg",
+  "calculate":"Calculate",
+  "bmi":"BMI",
+  "kgm2":"kg/m^2",
+  "category":"Category",
+  "categoryVal1":"Underweight (Severe thinness)",
+  "categoryVal2":"Underweight (Moderate thinness)",
+  "categoryVal3":"Underweight (Mild thinness)",
+  "categoryVal4":"Normal range",
+  "categoryVal5":"Overweight (Pre-obese)",
+  "categoryVal6":"Obese (Class I)",
+  "categoryVal7":"Obese (Class II)",
+  "categoryVal8":"Obese (Class III)"
+}
+
